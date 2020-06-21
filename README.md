@@ -19,3 +19,6 @@ https://github.com/alikonbass/TrackerX/issues/1#issue-642572353
 
 Nous avons également réalisé un diagramme . Ce dernier nous permet de définir les solutions constructives choisies pour répondre aux problématiques. 
 https://github.com/alikonbass/TrackerX/issues/2#issue-642573819
+
+Notre site web: c'est un site web qui fournit plusieurs informations concernant votre TrackerX (analyse, fonctionnement..)et nos services...
+https://drive.google.com/file/d/1O2dSI0zXsHlyKxpcrCVVHjdq6S5D3zes/view?usp=sharing
