@@ -12,3 +12,4 @@ Outils de développement
 Logiciels utilisés ARDUINO, Fritzing
 
 Montage
+https://github.com/alikonbass/TrackerX/issues/1#issue-642572353
