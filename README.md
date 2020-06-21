@@ -13,3 +13,6 @@ Logiciels utilisés ARDUINO, Fritzing
 
 Montage
 https://github.com/alikonbass/TrackerX/issues/1#issue-642572353
+
+Nous avons également réalisé un diagramme . Ce dernier nous permet de définir les solutions constructives choisies pour répondre aux problématiques. 
+
